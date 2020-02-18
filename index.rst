@@ -1,20 +1,12 @@
 .. _Satellite Hammer :
 .. _intro_installation_guide:
 
-Shankar
-********
+*****
+Title
+*****
 
 subtitle
 ########
 
 subsubtitle
-********
-
-sub3title
---------
-
-sub4title
-^^^^^^^^
-
-subtitle 4
-""""""""
+**********************
