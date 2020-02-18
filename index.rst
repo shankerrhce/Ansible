@@ -41,3 +41,10 @@ When choosing a control node, bear in mind that any management system benefits f
 
 Managed node requirements
 ^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. code-block:: bash
+
+    $ git clone https://github.com/ansible/ansible.git
+    $ cd ./ansible
+    $ make rpm
+    $ sudo rpm -Uvh ./rpm-build/ansible-*.noarch.rpm
