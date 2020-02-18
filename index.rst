@@ -23,4 +23,4 @@ subsubtitle
  arbitrarily complex code. Sphinx then reads simple names from the file’s namespace as its configuration.
 
  sub4title
--------------------------
+^^^^^^^^^^^^^^^^^^^^^^
