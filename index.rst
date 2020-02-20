@@ -13,8 +13,8 @@ This page describes how to configure and use of hammer command on Satellite 6.6.
 .. contents::
   :local:
 
-Prerequisites
---------------
+Satellite
+---------
 
 
 You install Ansible on a control node, which then uses SSH (by default) to communicate with your managed nodes (those end devices you want to automate).
@@ -50,3 +50,6 @@ Managed node requirements
     $ cd ./ansible
     $ make rpm
     $ sudo rpm -Uvh ./rpm-build/ansible-*.noarch.rpm
+	
+RHEL 8
+------
