@@ -51,5 +51,4 @@ Managed node requirements
     $ make rpm
     $ sudo rpm -Uvh ./rpm-build/ansible-*.noarch.rpm
 	
-RHEL 8
-------
+
