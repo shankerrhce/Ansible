@@ -10,8 +10,6 @@ This page describes how to configure and use of hammer command on Satellite 6.6.
 
 .. contents::
 
-.. contents::
-  :local:
 
 Satellite
 ---------
