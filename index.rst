@@ -3,6 +3,18 @@
 
 
 
+
+==================
+Table of Contents
+==================
+
+.. toctree::
+   :maxdepth: 2
+   :numbered:
+   
+   govc
+
+
 Configure Hammer
 ===================
 
