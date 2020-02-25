@@ -7,5 +7,5 @@ GoVc is used to manage and automate VMware vSphere
 ^^^^^^^^^^^^^^^^^
 .. code:: python
 
-# govc find vm -name *jadsh*
+govc find vm -name *jadsh*
 
