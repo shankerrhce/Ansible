@@ -7,5 +7,6 @@ GoVc is used to manage and automate VMware vSphere
 ^^^^^^^^^^^^^^^^^
 
 .. code-block:: bash
-govc find vm -name *jadsh*
+
+	govc find vm -name *jadsh*
 
