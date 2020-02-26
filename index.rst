@@ -13,5 +13,5 @@ Table of Contents
    :numbered:
    
    govc
-   Linux
+   linux
 	
