@@ -12,9 +12,12 @@ ss command is the replacement for netstat
 
 	# ss -ltn
 	
-IP / ifconfi
+IP / ifconfig
 ------------
 	
 .. code-block:: bash
 
 	# ip link
+
+testing
+^^^^^^^
