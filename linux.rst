@@ -3,8 +3,8 @@ Linux
 
 GoVc is used to manage and automate VMware vSphere 
 
-  Netstat / SS
------------------
+Netstat / SS
+------------
 
 ss command is the replacement for netstat
 
@@ -12,8 +12,8 @@ ss command is the replacement for netstat
 
 	# ss -ltn
 	
-  IP / ifconfi
----------------
+IP / ifconfi
+------------
 	
 .. code-block:: bash
 
