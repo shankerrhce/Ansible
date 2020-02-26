@@ -3,7 +3,7 @@ GoVc
 
 GoVc is used to manage and automate VMware vSphere 
 
-Find a VMware
+Find a VM
 -----------------
 
 .. code-block:: bash
