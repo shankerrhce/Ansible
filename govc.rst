@@ -11,7 +11,7 @@ GoVc is used to manage and automate VMware vSphere
 	# govc find vm -name *jadsh*
 	
 2.  Delete a VM
-^^^^^^^^^^^^^^^
+---------------
 	
 .. code-block:: bash
 
