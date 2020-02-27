@@ -21,3 +21,6 @@ IP / ifconfig
 
 testing
 *******
+
+*  ubuntu
+*  SuSe
