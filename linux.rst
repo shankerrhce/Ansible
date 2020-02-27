@@ -13,7 +13,7 @@ ss command is the replacement for netstat
 	# ss -ltn
 	
 IP / ifconfig
-------------
+-------------
 	
 .. code-block:: bash
 
