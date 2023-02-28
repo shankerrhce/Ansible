@@ -16,3 +16,10 @@ Delete a VM
 .. code-block:: bash
 
 	# govc vm.destroy -name *jadsh*
+	
+Clone  a VM
+---------------
+	
+.. code-block:: bash
+
+	# govc vm.destroy -name *jadsh*
