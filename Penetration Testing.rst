@@ -27,7 +27,7 @@ Important websites for PT
 Get Subdomains list
 -------------------
 
- subfinder and amass gives you the all the sub domains of a given domain.
+**subfinder** and **amass** gives you the all the sub domains of a given domain.
  
 .. code-block:: bash
 
