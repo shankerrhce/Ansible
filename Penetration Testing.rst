@@ -8,7 +8,7 @@ Important websites for PT
 
 .. code-block:: bash
 
-	- cvedetails.com
+	- `cvedetails.com <cvedetails.com>`_
 	- getgophish.com
 	- attack.mitre.org
 	- temp-mail.org
