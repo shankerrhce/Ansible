@@ -27,10 +27,20 @@ Important websites for PT
 Get Subdomains list
 -------------------
 
-**subfinder** and **amass** gives you the all the sub domains of a given domain.
+**subfinder** and **amass** gives all the sub domains of a given domain.
  
 .. code-block:: bash
 
 
 	# subfinder -silent -d hackerone.com
 	# amass enum -passive -d hackerone.com 
+	
+Accessable websites from the subdomain list
+-------------------	
+
+httpx gives the status of the website
+
+.. code-block:: bash
+
+	#amass enum -passive -d hackerone.com | httpx -sc  # gives status of all sites
+	#amass enum -passive -d hackerone.com | httpx -mc 200  # gives only accessable sites with http code 200
