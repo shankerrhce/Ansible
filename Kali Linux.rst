@@ -15,6 +15,10 @@ Steps to Run after building the Kali Linux
 	# go install -v github.com/projectdiscovery/httpx/cmd/httpx@latest
 	# go install -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest
 	# go install -v github.com/projectdiscovery/dnsx/cmd/dnsx@latest
+	# go install github.com/tomnomnom/waybackurls@latest
+	# go install github.com/tomnomnom/httprobe@latest
+	# go get -u github.com/tomnomnom/assetfinder
+	# go install github.com/tomnomnom/meg@latest
 	# rm /usr/bin/httpx	
 	# export PATH=$PATH:/root/go/bin
 	
