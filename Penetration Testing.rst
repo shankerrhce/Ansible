@@ -42,5 +42,5 @@ httpx gives the status of the website
 
 .. code-block:: bash
 
-	#amass enum -passive -d hackerone.com | httpx -sc  # gives status of all sites
-	#amass enum -passive -d hackerone.com | httpx -mc 200  # gives only accessable sites with http code 200
+	# amass enum -passive -d hackerone.com | httpx -sc  # gives status of all sites
+	# amass enum -passive -d hackerone.com | httpx -mc 200  # gives only accessable sites with http code 200
