@@ -16,4 +16,6 @@ Steps to Run after building the Kali Linux
 	# go install -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest
 	# go install -v github.com/projectdiscovery/dnsx/cmd/dnsx@latest
 	# rm /usr/bin/httpx	
+	# export PATH=$PATH:/root/go/bin
+	
 	
