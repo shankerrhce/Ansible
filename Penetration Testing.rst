@@ -38,7 +38,7 @@ Get Subdomains list
 Accessable websites from the subdomain list
 -------------------	
 
-httpx gives the status of the website
+**httpx** gives the status of the website
 
 .. code-block:: bash
 
