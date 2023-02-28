@@ -1,7 +1,7 @@
 Linux
 =====
 
-GoVc is used to manage and automate VMware vSphere 
+This document will have most of the usefull commands syntaxes.
 
 Netstat / SS
 ------------
@@ -19,8 +19,3 @@ IP / ifconfig
 
 	# ip link
 
-testing
-*******
-
-*  ubuntu
-*  SuSe
