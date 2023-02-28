@@ -8,8 +8,9 @@ Important websites for PT
 
 .. code-block:: bash
 
-	- `cvedetails.com <http://cvedetails.com>`_
-	- `CNN <http://cnn.com>`_
+	- `cvedetails.com <http://cvedetails.com/>`_.
+	- External hyperlinks, like `Python
+<https://www.python.org/>`_.
 	- getgophish.com
 	- attack.mitre.org
 	- temp-mail.org
