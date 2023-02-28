@@ -24,3 +24,11 @@ Important websites for PT
 	- bugcrowd.com
 	
 	
+Get Subdomains list
+-------------------
+
+.. code-block:: bash
+ subfinder and amass gives you the all the sub domains of a given domain.
+
+	# subfinder -silent -d hackerone.com
+	# amass enum -passive -d hackerone.com 
