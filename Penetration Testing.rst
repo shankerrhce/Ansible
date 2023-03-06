@@ -29,6 +29,7 @@ Important websites for PT
 	- bugcrowd.com
 	- jwt.io ( jsm token )
 	- https://vulners.com/zdt/1337DAY-ID-30003  ( local previlege esclation script)
+	- `test.com` | test.com 
 	
 	
 Get Subdomains list
