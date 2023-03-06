@@ -3,6 +3,11 @@ Penetration Testing Documentation
 
 GoVc is used to manage and automate VMware vSphere 
 
+Software
+-----------------
+- Active presenter software
+- obs broadcast software
+
 Important websites for PT
 -----------------
 
@@ -22,6 +27,7 @@ Important websites for PT
 	- meyerweb.com
 	- base64decode.org
 	- bugcrowd.com
+	jwt.io ( jsm token )
 	
 	
 Get Subdomains list
@@ -44,3 +50,12 @@ Accessable websites from the subdomain list
 
 	# amass enum -passive -d hackerone.com | httpx -sc  # gives status of all sites
 	# amass enum -passive -d hackerone.com | httpx -mc 200  # gives only accessable sites with http code 200
+	
+Reading topics
+-------------------	
+
+Research on the following topics
+
+.. code-block:: bash
+
+	# chkrootkit
