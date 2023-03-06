@@ -31,6 +31,7 @@ Important websites for PT
 	- https://vulners.com/zdt/1337DAY-ID-30003  ( local previlege esclation script)
 	- `test.com` | test.com 
 	- https://github.com/DominicBreuker/pspy
+	- https://gtfobins.github.io/  (curated list of unix binaries )
 	
 	
 Get Subdomains list
