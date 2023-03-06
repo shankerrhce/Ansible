@@ -1,7 +1,7 @@
 Penetration Testing Documentation
 ====
 
-GoVc is used to manage and automate VMware vSphere 
+Notes from the Penetration Testing Learning
 
 Software
 -----------------
@@ -30,6 +30,7 @@ Important websites for PT
 	- jwt.io ( jsm token )
 	- https://vulners.com/zdt/1337DAY-ID-30003  ( local previlege esclation script)
 	- `test.com` | test.com 
+	- https://github.com/DominicBreuker/pspy
 	
 	
 Get Subdomains list
@@ -61,3 +62,5 @@ Research on the following topics
 .. code-block:: bash
 
 	# chkrootkit
+	# pspy
+	
