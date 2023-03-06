@@ -32,6 +32,7 @@ Important websites for PT
 	- `test.com` | test.com 
 	- https://github.com/DominicBreuker/pspy
 	- https://gtfobins.github.io/  (curated list of unix binaries )
+	- https://github.com/sushiwushi/bug-bounty-dorks/blob/master/dorks.txt
 	
 	
 Get Subdomains list
