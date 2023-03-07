@@ -33,11 +33,4 @@ Find
      - Writable directories
    * - find / -path /proc -prune -o -type f -perm -o+w 2>/dev/null
      - Writable files
-   * - "find / -user root -perm -4000 -exec ls -ldb {} \; 2>/dev/null"
-	 - setuid files
-   * - "find / -user root -perm -6000 -exec ls -ldb {} \; 2>/dev/null"
-	 - 
-   * - find / ! -path "*/proc/*" -iname "*config*" -type f 2>/dev/null
-     - Search for config files	
-   * - find / ! -path "*/proc/*" -iname "*config*" -type f 2>/dev/null
-     - Search for config files
+  
