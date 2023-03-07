@@ -29,7 +29,7 @@ Find
 
    * - Command
      - Description
-   * - Row 1, column 1
-     -
+   * - find / -path /proc -prune -o -type d -perm -o+w 2>/dev/null 
+     - Writable directories
    * - Row 2, column 1
      - Row 2, column 2
