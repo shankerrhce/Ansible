@@ -23,7 +23,7 @@ Find
 -----
 
 
-.. list-table:: Title
+.. list-table:: Usage of Find command
    :widths: 25 25 
    :header-rows: 1
 
