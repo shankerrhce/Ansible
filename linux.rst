@@ -27,6 +27,6 @@ Find
    :widths: 25 25 
    :header-rows: 1
 
-   * - Heading row 1, column 1
-     - Heading row 1, column 2
+   * - Command
+     - Description
 
