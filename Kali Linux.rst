@@ -11,6 +11,7 @@ Steps to Run after building the Kali Linux
 
 	# sudo apt-get update
 	# sudo apt-get -y install golang
+	# sudo apt-get -y install amass
 	# apt install subfinder
 	# go install -v github.com/projectdiscovery/httpx/cmd/httpx@latest
 	# go install -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest
@@ -19,10 +20,9 @@ Steps to Run after building the Kali Linux
 	# go get -u github.com/tomnomnom/gf
 	# go install github.com/tomnomnom/httprobe@latest
 	# go get -u github.com/tomnomnom/assetfinder
+	# go install -v github.com/OWASP/Amass/v3/...@master
 	# go install github.com/tomnomnom/meg@latest
 	# rm /usr/bin/httpx	
-	# echo 'source $GOPATH/src/github.com/tomnomnom/gf/gf-completion.bash' >> ~/.bashrc
-	# export PATH=$PATH:/root/go/bin
-	# echo 'export PATH=$PATH:/root/go/bin'  >> ~/.bashrc
+
 	
 	
