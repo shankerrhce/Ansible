@@ -1,15 +1,15 @@
 Penetration Testing Documentation
-====
+=================================
 
 Notes from the Penetration Testing Learning
 
 Software
------------------
+--------
 - Active presenter software
 - obs broadcast software
 
 Important websites for PT
------------------
+-------------------------
 
 .. code-block:: bash
 
@@ -49,7 +49,7 @@ Get Subdomains list
 	# amass enum -passive -d hackerone.com 
 	
 Accessable websites from the subdomain list
--------------------	
+-------------------------------------------	
 
 **httpx** gives the status of the website
 
@@ -59,7 +59,7 @@ Accessable websites from the subdomain list
 	# amass enum -passive -d hackerone.com | httpx -mc 200  # gives only accessable sites with http code 200
 	
 Reading topics
--------------------	
+--------------
 
 Research on the following topics
 
