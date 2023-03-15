@@ -27,6 +27,8 @@ Important websites for PT
 	- meyerweb.com
 	- base64decode.org
 	- bugcrowd.com
+	- https://www.intigriti.com/
+	- bxsshunter.com
 	- jwt.io ( jsm token )
 	- https://vulners.com/zdt/1337DAY-ID-30003  ( local previlege esclation script)
 	- `test.com` | test.com 
