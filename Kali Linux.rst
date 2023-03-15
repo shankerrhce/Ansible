@@ -23,6 +23,8 @@ Steps to Run after building the Kali Linux
 	# go install -v github.com/OWASP/Amass/v3/...@master
 	# go install github.com/tomnomnom/meg@latest
 	# rm /usr/bin/httpx	
-
+	# echo 'source $GOPATH/src/github.com/tomnomnom/gf/gf-completion.bash' >> ~/.bashrc
+	# export PATH=$PATH:/root/go/bin
+	# echo 'export PATH=$PATH:/root/go/bin'  >> ~/.bashrc
 	
 	
