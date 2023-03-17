@@ -36,6 +36,7 @@ Important websites for PT
 	- https://gtfobins.github.io/  (curated list of unix binaries )
 	- https://github.com/sushiwushi/bug-bounty-dorks/blob/master/dorks.txt
 	- https://pentester.land/writeups/
+	- https://github.com/devanshbatham/Awesome-Bugbounty-Writeups
 	
 	
 Get Subdomains list
