@@ -1,5 +1,5 @@
 Kali Linux
-====
+==========
 
 This documentation will guide you the process to configure Kali Linux for Penetration Testing.
 	
@@ -25,5 +25,7 @@ Steps to Run after building the Kali Linux
 	# echo 'source $GOPATH/src/github.com/tomnomnom/gf/gf-completion.bash' >> ~/.bashrc
 	# export PATH=$PATH:/root/go/bin
 	# echo 'export PATH=$PATH:/root/go/bin'  >> ~/.bashrc
+	# python -m pip install --upgrade pip
+	# go install  github.com/tomnomnom/gf@latest
 	
 	
