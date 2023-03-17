@@ -35,6 +35,7 @@ Important websites for PT
 	- https://github.com/DominicBreuker/pspy
 	- https://gtfobins.github.io/  (curated list of unix binaries )
 	- https://github.com/sushiwushi/bug-bounty-dorks/blob/master/dorks.txt
+	- https://pentester.land/writeups/
 	
 	
 Get Subdomains list
