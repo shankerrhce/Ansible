@@ -37,6 +37,10 @@ Important websites for PT
 	- https://github.com/sushiwushi/bug-bounty-dorks/blob/master/dorks.txt
 	- https://pentester.land/writeups/
 	- https://github.com/devanshbatham/Awesome-Bugbounty-Writeups
+	- builtwith.com 
+	- https://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet
+	- https://www.lunasec.io/docs/blog/log4j-zero-day/
+	- https://blog.projectdiscovery.io/ultimate-nuclei-guide/
 	
 	
 Get Subdomains list
