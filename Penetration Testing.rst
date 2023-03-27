@@ -41,6 +41,8 @@ Important websites for PT
 	- https://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet
 	- https://www.lunasec.io/docs/blog/log4j-zero-day/
 	- https://blog.projectdiscovery.io/ultimate-nuclei-guide/
+	- https://www.hacksplaining.com/
+	- https://github.com/CyberSecurityUP/Awesome-Red-Team-Operations
 	
 	
 Get Subdomains list
