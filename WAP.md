@@ -2,10 +2,7 @@
 
 # Web and HTTP
 
-```
-R. Harish
-Amrita School of Engineering
-```
+
 
 ## Introduction
 
@@ -117,10 +114,7 @@ Persistent HTTP
 
 # Domain Name System
 
-```
-R. Harish
-Amrita School of Engineering
-```
+
 
 ## Introduction
 
@@ -196,10 +190,7 @@ featuring the internet, 3/E. Pearson Education India.
 
 # Peer-to-Peer Model
 
-```
-R. Harish
-Amrita School of Engineering
-```
+
 
 ## Introduction
 
@@ -264,10 +255,7 @@ resources may suffer from lazy performance.
 
 # Architecture
 
-```
-R. Harish
-Amrita School of Engineering
-```
+
 
 ## Introduction
 
@@ -375,10 +363,7 @@ Reference: http://aagasc.edu.in/cs/books/client-server-computing.pdf
 
 # Network
 
-```
-R. Harish
-Amrita School of Engineering
-```
+
 
 ## Introduction
 
@@ -510,10 +495,7 @@ approach featuring the internet, 3/E. Pearson Education India.
 
 # Wireshark Overview
 
-```
-R. Harish
-Amrita School of Engineering
-```
+
 
 ## Introduction
 
@@ -536,10 +518,7 @@ Amrita School of Engineering
 
 # Wireshark
 
-```
-R. Harish
-Amrita School of Engineering
-```
+
 
 ## Introduction
 
