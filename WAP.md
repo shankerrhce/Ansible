@@ -17,11 +17,7 @@ Amrita School of Engineering
     code
 - Web caches
 
-```
-Place your
-Webcam Video here
-Size 100%
-```
+
 
 ## Web Overview
 
@@ -115,11 +111,7 @@ Persistent HTTP
     code
 - Web caches
 
-```
-Place your
-Webcam Video here
-Size 100%
-```
+
 
 `
 
@@ -137,11 +129,7 @@ Amrita School of Engineering
 - How DNS works?
 - Method of Query
 
-```
-Place your
-Webcam Video here
-Size 100%
-```
+
 
 ## What is DNS?
 
@@ -202,11 +190,7 @@ featuring the internet, 3/E. Pearson Education India.
 - How DNS works?
 - Method of Query
 
-```
-Place your
-Webcam Video here
-Size 100%
-```
+
 
 `
 
@@ -224,11 +208,7 @@ Amrita School of Engineering
 - Client-Server Vs P2P
 - Merits and Demerits
 
-```
-Place your
-Webcam Video here
-Size 100%
-```
+
 
 ## Overview of P2P Model
 
@@ -276,11 +256,7 @@ resources may suffer from lazy performance.
 - Client-Server Vs P2P
 - Merits and Demerits
 
-```
-Place your
-Webcam Video here
-Size 100%
-```
+
 
 `
 
@@ -304,11 +280,7 @@ Amrita School of Engineering
 - Client-Server Web
     Services
 
-```
-Place your
-Webcam Video here
-Size 100%
-```
+
 
 ## What is the client-server model?
 
@@ -395,11 +367,7 @@ Reference: http://aagasc.edu.in/cs/books/client-server-computing.pdf
 - Client-Server Web
     Services
 
-```
-Place your
-Webcam Video here
-Size 100%
-```
+
 
 `
 
@@ -536,11 +504,7 @@ approach featuring the internet, 3/E. Pearson Education India.
 - Studied CDN with case
     study.
 
-```
-Place your
-Webcam Video here
-Size 100%
-```
+
 
 `
 
@@ -556,11 +520,7 @@ Amrita School of Engineering
 - Wireshark Usage
 - Layered Approach
 
-```
-Place your
-Webcam Video here
-Size 100%
-```
+
 
 
 ## Conclusion
@@ -568,11 +528,7 @@ Size 100%
 - Wireshark Usage
 - Layered Approach
 
-```
-Place your
-Webcam Video here
-Size 100%
-```
+
 
 `
 
@@ -591,11 +547,7 @@ Amrita School of Engineering
 - Sensitive Information
     Capturing
 
-```
-Place your
-Webcam Video here
-Size 100%
-```
+
 
 
 ## Conclusion
@@ -604,11 +556,7 @@ Size 100%
 - Sensitive Information
     Capturing
 
-```
-Place your
-Webcam Video here
-Size 100%
-```
+
 
 `
 
